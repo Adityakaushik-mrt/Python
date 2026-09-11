@@ -1,6 +1,6 @@
 # 👥 HR Analytics & Attrition Analysis Dashboard
 
-![HR Dashboard Preview](https://github.com/Adityakaushik-mrt/Python/blob/main/HR%20Analysis/Analysis.PNG?raw=true)
+![HR Dashboard Preview](https://github.com/Adityakaushik-mrt/Python/blob/main/HR%20Analysis/dash.PNG?raw=true)
 
 An exploratory data analysis (EDA) and visualization dashboard built using Python. This project evaluates organizational turnover patterns, education backgrounds, marital status attrition rates, and role-based satisfaction scores to assist HR business partners in talent retention strategies.
 
